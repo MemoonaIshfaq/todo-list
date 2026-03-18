@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A modern React todo list application with contact form",
   "private": true,
-  "homepage": "https://yourusername.github.io/react-todo-app",
+  "homepage": "https://memoonaishfaq.github.io/todo-list",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
