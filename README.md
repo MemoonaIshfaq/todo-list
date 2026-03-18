@@ -2,7 +2,7 @@ React Todo List Application
 Project Overview
 A modern, elegant task management application built with React. This application allows users to create, manage, and organize their daily tasks with an intuitive interface. Users can mark tasks as complete, filter by status, and send feedback through a contact form.
 
----
+
 Features
 Core Functionality
 Todo List Management
@@ -28,7 +28,7 @@ Responsive Design
 Mobile-friendly interface
 Works seamlessly on desktop, tablet, and mobile
 Professional white and black theme
----
+  
 Technologies Used
 Frontend Framework
 React (v18.2.0) - Modern UI library with Hooks
