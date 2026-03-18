@@ -20,6 +20,8 @@ function App() {
           <Routes>
             <Route path="/" element={<About />} />
             <Route path="/todos" element={<TodoContainer />} />
+            <Route path="/contact" element={<ContactContainer />} />
+
           </Routes>
         </div>
       </div>
